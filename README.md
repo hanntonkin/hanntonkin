@@ -15,7 +15,7 @@ I recently decided to go back to Github, after three years on gitlab and redmine
 
 In my view, robotics is the tight coupling of science and engineering. I feel fortunate to have chances working on both the yin and yang of robotics: from proving theorems on papers to coding software on product-grade robots.
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
 <td style="width:40%">
     <div text-align="center">
