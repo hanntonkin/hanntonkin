@@ -22,7 +22,7 @@ In my view, robotics is the tight coupling of science and engineering. I feel fo
 
 - 🔭 Theoretical skills: control and estimation theory, optimization - numerial methods, VIO/SLAM.
 
-- 💬 Technical skills: familiar with popular robotics hardwares and softwares. Native in C++, fluent in Python.
+- ⚙️ Technical skills: familiar with popular robotics hardwares and softwares. Native in C++, fluent in Python.
 </div>
 </td>
     <td><img align="right" src="https://github-readme-stats.vercel.app/api?username=hanntonkin&count_private=true&show_icons=true&theme=radical" /></td>
