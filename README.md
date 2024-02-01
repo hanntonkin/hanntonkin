@@ -20,7 +20,7 @@ In my view, robotics is a genuine symbiosis of science and engineering. I feel f
 <td style="width:40%">
     <div text-align="center">
 
-- 🔭 Theoretical skills: control and estimation theory, optimization - numerial methods, VIO/SLAM.
+- 🔭 Theoretical skills: nonlinear systems, control and estimation theory, optimization and numerial methods, VIO/SLAM.
 
 - ⚙️ Technical skills: familiar with popular robotics hardwares and softwares. Native in C++, fluent in Python.
 </div>
