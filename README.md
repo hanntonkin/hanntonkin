@@ -4,7 +4,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanntonkin.hanntonkin) </p> -->
 <div size='20px'> 
 
-<p>My full name is Hai-Nguyen Nguyen, also known as Hann for short. My main research focus is on aerial robotics. Currently, I am a Contract Research Scientist at LAAS-CNRS, focusing on control and planning aspects of aerial physical interaction. </p>
+<p>My full name is Hai-Nguyen Nguyen, also known by my initials (tên chữ/表字/자) - Hann. My main research focus is on aerial robotics. Currently, I am a Contract Research Scientist at LAAS-CNRS, focusing on control and planning aspects of aerial physical interaction. </p>
 
 <p>
 I recently decided to go back to Github, after three years on gitlab and redmine. Thanks for dropping by! 
