@@ -4,31 +4,14 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hanntonkin.hanntonkin) </p> -->
 <div size='20px'> 
 
-<p>My full name is Hai-Nguyen Nguyen, also known by my initials (tên chữ/表字/자) - Hann. My main research focus is on aerial robotics. Currently, I am a Contract Research Scientist at LAAS-CNRS, focusing on control and planning aspects of aerial physical interaction. </p>
+<p>My full name is Hai-Nguyen Nguyen, also known by my initials (tên chữ/表字/자) - Hann. Currently, I am a Lecturer on Robotics and Mechatronics at RMIT, South Saigon Campus, Vietnam. 
+</p>
 
 <p>
-I recently decided to go back to Github, after three years on gitlab and redmine. Thanks for dropping by! 
+In my view, robotics is a genuine symbiosis of science and engineering. I feel fortunate to have chances working on both the yin and yang of robotics: from proving theorems on papers to coding software on product-grade robots. My current focus is on developing a new generation of physically-capable aerial robots. 
 </p>
+
 </div>
-
-<h2> About Me</h2>
-
-In my view, robotics is a genuine symbiosis of science and engineering. I feel fortunate to have chances working on both the yin and yang of robotics: from proving theorems on papers to coding software on product-grade robots.
-
-<table cellspacing="0" cellpadding="0">
-  <tr>
-<td style="width:40%">
-    <div text-align="center">
-
-- 🔭 Theoretical skills: nonlinear systems, control and estimation theory, optimization and numerial methods, VIO/SLAM.
-
-- ⚙️ Technical skills: familiar with popular robotics hardwares and softwares. Native in C++, fluent in Python.
-</div>
-</td>
-    <td><img align="right" src="https://github-readme-stats.vercel.app/api?username=hanntonkin&count_private=true&show_icons=true&theme=radical" /></td>
-  </tr>
-</table>
-
 
 
 
